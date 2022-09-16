@@ -1,4 +1,5 @@
 // Hong Yi Meng 260978023
+// hong.meng@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
