@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5c97c872_6701f69b",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020567
+      },
+      "writtenOn": "2022-09-30T17:19:20Z",
+      "side": 1,
+      "message": "can lab be in lowercase?",
+      "range": {
+        "startLine": 1,
+        "startChar": 1,
+        "endLine": 1,
+        "endChar": 5
+      },
+      "revId": "e42993e274a130aa5c7a97eadc1da262559eb2b5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
